@@ -1,0 +1,18 @@
+.search-bar{
+    width: calc(100% - 60px);
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 30px;
+}
+
+::placeholder{
+    color: rgba(255, 255, 255, 0.5);
+}
+
+input.search-bar:focus{
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+input.search-bar:active{
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}

@@ -1,0 +1,14 @@
+body{
+  background: url('https://images.pexels.com/photos/133953/pexels-photo-133953.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 1rem;
+  font-family: 'Roboto', sans-serif;
+  height: 100vh;
+
+}
+
+#root{
+  max-width: 600px;
+  margin: auto;
+}
