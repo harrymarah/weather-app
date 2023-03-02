@@ -1,7 +1,11 @@
 .location-heading {
-    width: calc(100% - 60px);
-    padding: 20px;
-    border-radius: 20px;
-    text-align: center;
-    font-size: 30px;
+  width: calc(100% - 20px);
+  border-radius: 20px;
+  text-align: center;
+}
+
+.location-heading > h2 {
+  font-size: 30px;
+  padding: 15px;
+  margin: 0;
 }
